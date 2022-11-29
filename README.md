@@ -39,3 +39,13 @@ Link for geometry: [Google Drive](https://drive.google.com/drive/folders/1cF0Tyv
 <p align="center">
 <sub>Unreal's vieport</sub>
 </p>
+
+![Image6](https://github.com/VladimirKobranov/ProceduralBuildingUEcpp/blob/main/md/3dmodules_build.jpg)
+<p align="center">
+<sub>Example of used objects</sub>
+</p>
+
+![Image6](https://github.com/VladimirKobranov/ProceduralBuildingUEcpp/blob/main/md/brandmauer_models_.jpg)
+<p align="center">
+<sub>Example of used objects for brandmauer</sub>
+</p>
